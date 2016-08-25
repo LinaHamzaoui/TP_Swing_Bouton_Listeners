@@ -9,3 +9,6 @@
 #4) Utiliser la même technique avec trois boutons, "Un", "Deux" et "Trois", qui permettent de
 #changer le titre de la fenêtre principale de l'application en respectivement "*Un*", "*Deux*"
 #et "*Trois*". Produire un code qui permette de rajouter facilement un bouton.
+
+#Exercice 3bis : Associer des actions aux boutons
+#Reprendre l'exercice 3, en utilisant la classe AbstractAction au lieu de l'interface ActionListener
